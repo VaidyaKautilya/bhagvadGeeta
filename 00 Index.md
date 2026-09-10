@@ -8,6 +8,22 @@ It is written for a person who is starting. You do not need Sanskrit, and you do
 
 The Gita is a conversation on the battlefield of Kurukshetra. The warrior **Arjuna** will not fight. His guide **Krishna** teaches him. **Sanjaya** tells the blind king **Dhritarashtra** what is said. The war is the setting. The teaching is about how to live, act, love, know, and take refuge.
 
+**In this index**
+
+- [How to Read Each Shloka](#how-to-read-each-shloka)
+- [Before the Teaching: The War](#before-the-teaching-the-war)
+- [Words You Will Meet](#words-you-will-meet)
+- [The Three Parts of the Book](#the-three-parts-of-the-book)
+- [Full Chapter Index](#full-chapter-index)
+- [Chapter Guide for a Beginner](#chapter-guide-for-a-beginner)
+- [From Grief to Standing Up](#from-grief-to-standing-up)
+- [Verses Many People Already Know](#verses-many-people-already-know)
+- [Who Speaks](#who-speaks)
+- [How to Read the Book](#how-to-read-the-book)
+- [A Steady Pace](#a-steady-pace)
+- [Shloka Counts by Part](#shloka-counts-by-part)
+- [Begin Here](#begin-here)
+
 ---
 
 ## How to Read Each Shloka
@@ -41,6 +57,39 @@ And at the end:
 - **Simple Summary** — what happened, why it matters, the big question
 
 Do not try to finish the whole book in one sitting. One chapter, or even a few shlokas, is enough.
+
+---
+
+## Before the Teaching: The War
+
+You do not need the whole Mahabharata. You need this much:
+
+Two cousin-families claim one throne. The **Pandavas** (five brothers: Yudhishthira, Bhima, Arjuna, Nakula, Sahadeva) have been wronged. The **Kauravas**, led by **Duryodhana**, son of the blind king Dhritarashtra, will not give the kingdom back. The armies meet at **Kurukshetra**, called both a field of war and a field of dharma.
+
+**Krishna** drives Arjuna's chariot. He has promised not to lift a weapon. He will only guide. When the conches sound, Arjuna asks Krishna to place the chariot between the two armies. He sees grandfathers, teachers, cousins, and sons. His bow **Gandiva** slips. Chapter 1 is that falling. Chapter 2 is Krishna beginning to speak. Chapter 18 is Arjuna standing again, with the same bow, without the old fog.
+
+---
+
+## Words You Will Meet
+
+These words return in almost every chapter. Learn them once here.
+
+| Word | Simple sense in this book |
+| --- | --- |
+| **Shloka** | One verse. Numbered inside its chapter (for example 2.47 means Chapter 2, verse 47). |
+| **Yoga** | A joining: a path that unites the person with the Highest. Each chapter is named a yoga. |
+| **Dharma** | What is right to do; one's own duty. Not only "religion." |
+| **Karma** | Action, and the binding that follows action. **Karma Yoga** is work without clinging to the fruit. |
+| **Jnana** | Knowledge that sees. **Vijnana** is that knowledge lived. |
+| **Bhakti** | Devotion; love and worship of God. |
+| **Atman / Self** | The one who knows, inside. Not the body. |
+| **Prakriti** | Nature; the field that acts. The three **gunas** are her strands. |
+| **Gunas** | **Sattva** (clarity), **rajas** (restless passion), **tamas** (fog, sloth). They color faith, food, work, and joy. |
+| **Tyaga** | Giving up the *fruit* of work, not the work itself. |
+| **Sannyasa** | Laying down desire-born work; inward renunciation. |
+| **Moksha** | Liberation; freedom from the round of binding. |
+| **Svadharma** | One's own duty, born of one's nature. Better imperfect own-work than well-done borrowed work. |
+| **Prasada** | Grace. The last chapters say the Highest is reached by grace as well as by effort. |
 
 ---
 
@@ -87,7 +136,7 @@ This count follows the edition used in these files. Chapter 13 includes Arjuna's
 
 ## Chapter Guide for a Beginner
 
-Read in order if you can. If you need a shorter first path, see **A first path** below.
+Read the chapters in order. Each one answers the last.
 
 ### Part I — Karma Yoga (Action) · Chapters 1–6 · 280 shlokas
 
@@ -151,6 +200,48 @@ The last and longest chapter. Sannyasa and tyaga. Keep the work; drop the fruit.
 
 ---
 
+## From Grief to Standing Up
+
+Hold this thread while you read. It is one conversation, not eighteen separate books.
+
+| Moment | Where | What happens |
+| --- | --- | --- |
+| The bow falls | **1.46–47** | Arjuna sits in the chariot, overwhelmed. |
+| The teaching begins | **2.11** | Krishna speaks: you grieve for those who should not be grieved. |
+| Work is named | **3–6** | Act; do not cling; sit; train the mind. |
+| God is named | **7–10** | Who He is, how to remember Him, where His glories shine. |
+| The eyes are opened | **11** | Arjuna sees the universal form, then asks for the gentle friend again. |
+| Love is named | **12** | Who is dear: no hatred, a friend to all. |
+| The inner map | **13–17** | Field and knower; gunas; the Supreme Person; two destinies; three faiths. |
+| The last word | **18.66** | Take refuge in Me alone. Do not grieve. |
+| The bow is held | **18.73** | Delusion gone. I will do Your word. |
+| The seal | **18.78** | Where Krishna and Arjuna stand, there are fortune, victory, and firm justice. |
+
+---
+
+## Verses Many People Already Know
+
+If you have heard one line of the Gita before, it is often one of these. They are in this book with the same five parts as every other shloka.
+
+| Verse | Chapter file | Why people remember it |
+| --- | --- | --- |
+| **2.47** | [Chapter 2](Chapter%202.md) | You have a right to action, not to the fruit. |
+| **2.50** | [Chapter 2](Chapter%202.md) | Yoga is skill in action. |
+| **4.7–8** | [Chapter 4](Chapter%204.md) | Whenever dharma declines, He takes birth. |
+| **6.5** | [Chapter 6](Chapter%206.md) | Lift yourself by the Self; do not sink yourself. |
+| **7.19** | [Chapter 7](Chapter%207.md) | After many births the wise one takes refuge: Vasudeva is all. |
+| **9.22** | [Chapter 9](Chapter%209.md) | Those who worship Him with no other thought — He carries what they lack and keeps what they have. |
+| **9.26** | [Chapter 9](Chapter%209.md) | A leaf, a flower, a fruit, water, offered with love. |
+| **11.32** | [Chapter 11](Chapter%2011.md) | Time, the eater of worlds. |
+| **12.13–14** | [Chapter 12](Chapter%2012.md) | No hatred, a friend to all — dear to Krishna. |
+| **15.7** | [Chapter 15](Chapter%2015.md) | The jiva is an eternal fragment of Him. |
+| **18.65** | [Chapter 18](Chapter%2018.md) | Become My-minded, My devotee; you are dear to Me. |
+| **18.66** | [Chapter 18](Chapter%2018.md) | Abandon all dharmas; take refuge in Me alone; do not grieve. |
+
+To find a verse in a chapter file, search for `## Shloka 47` (or whichever number).
+
+---
+
 ## Who Speaks
 
 | Name | Role in this book |
@@ -191,6 +282,22 @@ The book is **all 18 chapters**, in order. Do not skip. Each chapter answers the
 
 **Shortest chapters** (if you have only a little time that day, still stay in order; just stop at a short one): 12 (20), 15 (20), 16 (24), 14 (27), 8 (28), 17 (28), 5 (29).  
 **Longest chapters:** 18 (78), 2 (72), 11 (55), 1 (47), 6 (47).
+
+---
+
+## A Steady Pace
+
+You do not have to read a whole chapter in one day.
+
+| Pace | About how long for 701 shlokas |
+| --- | --- |
+| A few shlokas a day (5–10) | Two to four months |
+| One chapter a day | A little over two weeks (Chapter 18 may take two days) |
+| One part a week (six chapters) | Three weeks |
+
+A good daily habit: read the **Simple Meaning** and **What it teaches** for as many verses as you can hold. Return the next day and read the Gujarati and the deeper meaning of the same verses. The Gita is a conversation. It rewards coming back.
+
+If you stop, start again at the beginning of the chapter you left, not at verse 1 of the whole book, unless you want the grief of Chapter 1 to remind you why the teaching began.
 
 ---
 
