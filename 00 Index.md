@@ -164,22 +164,32 @@ Most verses are Krishna speaking. When the speaker changes, the Sanskrit line na
 
 ---
 
-## A First Path
+## How to Read the Book
 
-If you are new, you may read straight from Chapter 1 to 18. If that feels long, use this shorter path, then fill the gaps:
+The book is **all 18 chapters**, in order. Do not skip. Each chapter answers the one before it.
 
-| Step | Read | Why |
-| ---: | --- | --- |
-| 1 | **Chapter 1** (47) | You meet the story and the grief. |
-| 2 | **Chapter 2** (72) | The core: soul, duty, fruitlessness, a steady mind. |
-| 3 | **Chapter 3** (43) | How to act in the world. |
-| 4 | **Chapter 12** (20) | Devotion in a short chapter. Who is dear. |
-| 5 | **Chapter 15** (20) | The picture of the world as a tree, and the Supreme Person. |
-| 6 | **Chapter 18** (78) | The summary and the last refuge. Arjuna stands up. |
+| Order | Chapter | Category | Shlokas | What you meet |
+| ---: | --- | --- | ---: | --- |
+| 1 | **Chapter 1** | Karma | 47 | The story and Arjuna's grief |
+| 2 | **Chapter 2** | Karma | 72 | The soul, duty, fruit, a steady mind |
+| 3 | **Chapter 3** | Karma | 43 | How to act without clinging |
+| 4 | **Chapter 4** | Karma | 42 | Knowledge inside work; divine birth |
+| 5 | **Chapter 5** | Karma | 29 | Work or leaving work — both can reach |
+| 6 | **Chapter 6** | Karma | 47 | Meditation; the yogi and the fallen yogi |
+| 7 | **Chapter 7** | Bhakti | 30 | Knowing God; four kinds of devotee |
+| 8 | **Chapter 8** | Bhakti | 28 | Death, remembrance, the Imperishable |
+| 9 | **Chapter 9** | Bhakti | 34 | The royal secret; a leaf offered in love |
+| 10 | **Chapter 10** | Bhakti | 42 | Divine glories in the world |
+| 11 | **Chapter 11** | Bhakti | 55 | The universal form |
+| 12 | **Chapter 12** | Bhakti | 20 | Devotion; who is dear to Krishna |
+| 13 | **Chapter 13** | Jnana | 35 | The field and the knower of the field |
+| 14 | **Chapter 14** | Jnana | 27 | The three gunas that bind |
+| 15 | **Chapter 15** | Jnana | 20 | The inverted tree; the Supreme Person |
+| 16 | **Chapter 16** | Jnana | 24 | Divine and demonic endowments |
+| 17 | **Chapter 17** | Jnana | 28 | Three kinds of faith, food, and giving |
+| 18 | **Chapter 18** | Jnana | 78 | Renunciation, refuge, Arjuna stands up |
 
-Then return and read the chapters you skipped, in order.
-
-**Shortest chapters** (good when you have little time): 12 (20), 15 (20), 16 (24), 14 (27), 8 (28), 17 (28), 5 (29).  
+**Shortest chapters** (if you have only a little time that day, still stay in order; just stop at a short one): 12 (20), 15 (20), 16 (24), 14 (27), 8 (28), 17 (28), 5 (29).  
 **Longest chapters:** 18 (78), 2 (72), 11 (55), 1 (47), 6 (47).
 
 ---
